@@ -1,5 +1,5 @@
 # TTS Radio
-# Copyright (c) 2020 Aconix
+# © 2020 Aconix All Rights Reserved
 
 
 

@@ -1,5 +1,5 @@
 # TTS Radio
-# Copyright (c) 2020 Aconix
+# © 2020 Aconix All Rights Reserved
 
 import config
 import win32com.client as wincl
@@ -23,7 +23,7 @@ print(r"""
    | $$      | $$  |  $$$$$$/      | $$  | $$|  $$$$$$$|  $$$$$$$| $$|  $$$$$$/
    |__/      |__/   \______/       |__/  |__/ \_______/ \_______/|__/ \______/ 
 
-Copyright (c) 2020 Aconix
+© 2020 Aconix All Rights Reserved
     """)
 
 
