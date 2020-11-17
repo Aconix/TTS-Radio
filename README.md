@@ -1,6 +1,8 @@
 # TTS Radio
 TTS Radio is a python program that plays .wav songs and announces the names of the songs via TTS
 
+![TTS Radio Screenshot](https://i.imgur.com/Vk0h5EH.png)
+
 ## Opperation out of the box.
 For this program to work, you need to install pywin32. You can do this via pip.
 Open cmd and enter:
