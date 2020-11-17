@@ -8,7 +8,7 @@ pip install pywin32
 ```
 
 Insert Music into the sounds folder. Launch Radio.py to start listening.
-Edit the config file to change the TTS messages
+Edit the config.py file to change the TTS messages.
 
 
 ## Compatability
